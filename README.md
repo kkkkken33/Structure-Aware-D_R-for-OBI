@@ -1,4 +1,4 @@
-# Project Title
+# Vision-Language Guided Generation and Retrieval for Oracle Bone Inscription Decipherment
 
 ## 📝 Project Overview
 
