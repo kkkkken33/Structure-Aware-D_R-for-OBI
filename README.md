@@ -47,10 +47,7 @@ dataset/
 ### Recommended
 - Python >= 3.8
 - (Optional) Use a virtual environment (e.g., venv, conda)
-### Install dependencies
-```bash
-pip install -r requirement.txt
-```
+
 ### Use generation model
 ```bash
 cd generation
